@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+td {
+  font-family: "Helvetica";
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  vertical-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.timerbody {
+  background-color: aqua;
+  border: 1px solid black;
+}
+
+.timerfront {
+  background-color: green;
+}
